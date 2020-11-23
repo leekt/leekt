@@ -18,7 +18,7 @@ Solidity Auditor/Developer
 ## Working on 
 
 - [deploy-defi](https://github.com/leekt216/deploy-defi)
-- [solidity-techinques](https://github.com/leekt216/solidity-techniques)
+- [solidity-techniques](https://github.com/leekt216/solidity-techniques)
 - swellFish ( coming soon ... )
 
 ## Career
