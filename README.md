@@ -1,6 +1,6 @@
 # Taek Lee (leekt216)
 
-Solidity Auditor/Developer, founder of @minnow-dev
+Solidity Auditor/Developer, founder of [@minnow-dev](https://github.com/minnow-dev)
 
 ## Skill set
 
