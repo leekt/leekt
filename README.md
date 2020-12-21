@@ -1,4 +1,4 @@
-# Taek Lee (leekt216)
+# Taek Lee (leekt)
 
 Solidity Auditor/Developer
 
