@@ -17,11 +17,15 @@ Solidity Auditor/Developer
 
 ## Working on 
 
-- [deploy-defi](https://github.com/leekt216/deploy-defi)
-- [solidity-techniques](https://github.com/leekt216/solidity-techniques)
+- [deploy-defi](https://github.com/minnow-dev/deploy-defi)
+- [solidity-techniques](https://github.com/minnow-dev/solidity-techniques)
 - swellFish ( coming soon ... )
 
 ## Career
+
+#### [@minnow-dev](https://github.com/minnow-dev)
+
+Founder of minnow-dev
 
 #### [@Haechi-labs](https://github.com/haechi-labs)
 
