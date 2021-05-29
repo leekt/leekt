@@ -19,7 +19,6 @@ Solidity Auditor/Developer
 
 - [deploy-defi](https://github.com/minnow-dev/deploy-defi)
 - [solidity-techniques](https://github.com/minnow-dev/solidity-techniques)
-- swellFish ( coming soon ... )
 
 ## Career
 
