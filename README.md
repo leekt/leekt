@@ -36,3 +36,8 @@ Smart Contract Auditor (2018.12 ~ )
 
 - More than 100 audits including defi protocols/erc20 as an audit lead
 - Developing Secure Smart Contract wallet
+
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leekt&layout=compact&theme=dracula&private=true">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=leekt&show_icons=true&theme=dracula&count_private=true&private=true">
+
