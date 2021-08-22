@@ -17,10 +17,6 @@ Solidity Auditor/Developer
 
 ## Career
 
-#### [@minnow-dev](https://github.com/minnow-dev)
-
-Founder of minnow-dev
-
 #### [@Haechi-labs](https://github.com/haechi-labs)
 
 #### Role
