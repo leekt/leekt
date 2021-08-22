@@ -15,11 +15,6 @@ Solidity Auditor/Developer
 - Security
 - Blockchain
 
-## Working on 
-
-- [deploy-defi](https://github.com/minnow-dev/deploy-defi)
-- [solidity-techniques](https://github.com/minnow-dev/solidity-techniques)
-
 ## Career
 
 #### [@minnow-dev](https://github.com/minnow-dev)
