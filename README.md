@@ -25,5 +25,5 @@ Smart Contract Auditor (2018.12 ~ )
 
 #### Contributed To
 
-- More than 250 audits including defi protocols/erc20 as an audit lead
+- 400+ audits including defi protocols/erc20 as an audit lead
 - Developing Secure Smart Contract wallet
