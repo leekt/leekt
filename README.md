@@ -21,7 +21,7 @@ Solidity Auditor/Developer
 
 #### Role
 
-Smart Contract Auditor (2018.12 ~ )
+Smart Contract Auditor (2018.12 ~ 2022.12)
 
 #### Contributed To
 
