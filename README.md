@@ -17,11 +17,7 @@ Solidity Auditor/Developer
 
 ## Career
 
-#### [@Haechi-labs](https://github.com/haechi-labs)
-
-#### Role
-
-Smart Contract Auditor (2018.12 ~ 2022.12)
+**[@Haechi-labs](https://github.com/haechi-labs)** Smart Contract Auditor (2018.12 ~ 2022.12)
 
 #### Contributed To
 
