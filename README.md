@@ -4,16 +4,7 @@ Solidity Auditor/Developer
 
 ## Skill set
 
-- Solidity
-- Javascript
-- Typescript
-- Rust
-
-## Interested In
-
-- Defi
-- Security
-- Blockchain
+- Solidity, JS, TS, Rust
 
 ## Career
 
