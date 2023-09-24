@@ -8,7 +8,7 @@ Solidity Auditor/Developer
 
 ## Career
 
-**[@zerodevapp](https://github.com/zerodevapp)** CTO (2023.02 ~)
+**[@zerodevapp](https://github.com/zerodevapp)** CTO (2023.05 ~)
 - Building Smart Contract wallet
 
 **[@Haechi-labs](https://github.com/haechi-labs)** Smart Contract Auditor (2018.12 ~ 2022.12)
